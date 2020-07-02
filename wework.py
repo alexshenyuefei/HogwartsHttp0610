@@ -10,8 +10,8 @@ class Wework:
             r = requests.get(
                 "https://qyapi.weixin.qq.com/cgi-bin/gettoken",
                 params={
-                    'corpid': 'wwd6da61649bd66fea',
-                    'corpsecret': 'heLiPlmyblHRiKAgGWZky4-KdWqu1V22FeoFex8RfM0'
+                    'corpid': 'wwe9b940f33f2f232f',
+                    'corpsecret': '99wyJvIfCLYQPyd9qIpygmQvhKPbRVlmh1eisY4Wl_w'
                 }
             )
 
